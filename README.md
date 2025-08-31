@@ -1,4 +1,5 @@
 #💰 Bank Loan Report Dashboard
+
 An interactive Power BI dashboard designed to provide insights into loan applications, funded amounts, repayments, and loan portfolio performance. It enables banks, analysts, and decision-makers to track loan quality, repayment efficiency, and business growth trends.
 
 #📌 Purpose
