@@ -1,8 +1,8 @@
-#💰 Bank Loan Report Dashboard
+# 💰 Bank Loan Report Dashboard
 
 An interactive Power BI dashboard designed to provide insights into loan applications, funded amounts, repayments, and loan portfolio performance. It enables banks, analysts, and decision-makers to track loan quality, repayment efficiency, and business growth trends.
 
-#📌 Purpose
+# 📌 Purpose
 The Bank Loan Report Dashboard is a comprehensive reporting solution built in Power BI. It tracks loan applications, funded vs. received amounts, interest rates, debt-to-income ratios, and loan status distribution. This tool helps financial institutions monitor loan portfolio health, identify risk areas, and optimize lending strategies.
 
 # 🛠 Tech Stack
@@ -14,7 +14,7 @@ The dashboard was built using the following tools and technologies:
 📝 Data Modeling – Relationships defined between loan application, funding, and repayment data tables.
 📁 File Formats – .pbix for development and .png for dashboard previews.
 
-#📂 Data Source
+# 📂 Data Source
 Source: Bank loan dataset (simulated/real depending on your dataset).
 The dataset includes:
 
@@ -23,7 +23,7 @@ Funded amount vs. received amount
 Interest rate & Debt-to-Income (DTI) ratios
 Loan purpose, grade, and state details
 
-#🚀 Features / Highlights
+# 🚀 Features / Highlights
 
 🔹 Business Problem
 Banks and financial institutions need to track loan performance and understand repayment behavior. Without visualization, it’s difficult to identify loan defaults, repayment efficiency, and portfolio risks.
@@ -62,7 +62,7 @@ Banks and financial institutions need to track loan performance and understand r
 🎯 Decision-Making: Support lending strategies and credit policy adjustments.
 📊 Portfolio Performance: Track loan repayment trends and customer creditworthiness.
 
-#📷 Screenshots / Demos
+# 📷 Screenshots / Demos
 <img width="1562" height="877" alt="image" src="https://github.com/user-attachments/assets/2724d5f4-8422-4307-8ba1-189cb4b733fb" />
 
 
