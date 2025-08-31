@@ -63,6 +63,9 @@ Banks and financial institutions need to track loan performance and understand r
 📊 Portfolio Performance: Track loan repayment trends and customer creditworthiness.<br>
 
 # 📷 Screenshots / Demos
-<img width="1562" height="877" alt="image" src="https://github.com/user-attachments/assets/2724d5f4-8422-4307-8ba1-189cb4b733fb" />
+<img width="1562" height="877" alt="image" src="https://github.com/user-attachments/assets/2724d5f4-8422-4307-8ba1-189cb4b733fb" /><br>
+<img width="1574" height="854" alt="image" src="https://github.com/user-attachments/assets/ae0fb7bb-3483-46cb-8532-72020eb277b4" /><br>
+<img width="1566" height="867" alt="image" src="https://github.com/user-attachments/assets/11699377-4268-4610-82b5-64d8b47f15a5" />
+
 
 
