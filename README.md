@@ -26,41 +26,41 @@ Loan purpose, grade, and state details
 # 🚀 Features / Highlights
 
 🔹 Business Problem
-Banks and financial institutions need to track loan performance and understand repayment behavior. Without visualization, it’s difficult to identify loan defaults, repayment efficiency, and portfolio risks.
+Banks and financial institutions need to track loan performance and understand repayment behavior. Without visualization, it’s difficult to identify loan defaults, repayment efficiency, and portfolio risks.<br>
 
-🔹 Goal of the Dashboard
-   To deliver an interactive loan monitoring tool that:
-   Provides real-time insights into loan portfolio health
-   Helps identify good vs. bad loans
-   Supports decision-making for credit risk assessment
-   Enables filtering by loan purpose, state, and grade
+🔹 Goal of the Dashboard<br>
+   To deliver an interactive loan monitoring tool that:<br>
+   Provides real-time insights into loan portfolio health<br>
+   Helps identify good vs. bad loans<br>
+   Supports decision-making for credit risk assessment<br>
+   Enables filtering by loan purpose, state, and grade<br>
 
-🔹 Walkthrough of Key Visuals
-   Key KPIs (Top Row)
-   Total Loan Applications: 38.6K
-   Total Funded Amount: $435.8M
-   Total Amount Received: $473.1M
-   Average Interest Rate: 12%
-   Average DTI: 13.3%
+🔹 Walkthrough of Key Visuals<br>
+   Key KPIs (Top Row)<br>
+   Total Loan Applications: 38.6K<br>
+   Total Funded Amount: $435.8M<br>
+   Total Amount Received: $473.1M<br>
+   Average Interest Rate: 12%<br>
+   Average DTI: 13.3%<br>
 
-🔹Good vs. Bad Loans (Donut Charts)
-  Good Loans: 86.2% (33K apps, $370.2M funded, $435.8M received)
-  Bad Loans: 13.8% (5K apps, $65.5M funded, $37.3M received)
+🔹Good vs. Bad Loans (Donut Charts)<br>
+  Good Loans: 86.2% (33K apps, $370.2M funded, $435.8M received)<br>
+  Bad Loans: 13.8% (5K apps, $65.5M funded, $37.3M received)<br>
 
-🔹Loan Status Table
-  Breakdown of Current, Charged-off, and Fully Paid loans
-  Includes funded amount, received amount, average interest rate, and DTI
+🔹Loan Status Table<br>
+  Breakdown of Current, Charged-off, and Fully Paid loans<br>
+  Includes funded amount, received amount, average interest rate, and DTI<br>
 
-🔹Interactive Filters
-   Loan Purpose
-   State
-   Grade
+🔹Interactive Filters<br>
+   Loan Purpose<br>
+   State<br>
+   Grade<br>
 
-🔹 Business Impact & Insights
-📉 Risk Analysis: Identify percentage of bad loans and charged-off amounts.
-💵 Cash Flow Monitoring: Compare total funded vs. total received amounts.
-🎯 Decision-Making: Support lending strategies and credit policy adjustments.
-📊 Portfolio Performance: Track loan repayment trends and customer creditworthiness.
+🔹 Business Impact & Insights<br>
+📉 Risk Analysis: Identify percentage of bad loans and charged-off amounts.<br>
+💵 Cash Flow Monitoring: Compare total funded vs. total received amounts.<br>
+🎯 Decision-Making: Support lending strategies and credit policy adjustments.<br>
+📊 Portfolio Performance: Track loan repayment trends and customer creditworthiness.<br>
 
 # 📷 Screenshots / Demos
 <img width="1562" height="877" alt="image" src="https://github.com/user-attachments/assets/2724d5f4-8422-4307-8ba1-189cb4b733fb" />
